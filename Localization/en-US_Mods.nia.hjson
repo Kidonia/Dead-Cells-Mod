@@ -1,0 +1,113 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	Cell: {
+		DisplayName: Cell
+		Tooltip: 细胞是极其稀有且珍贵的资源，值得用命去换
+	}
+
+	admin: {
+		DisplayName: admin
+		Tooltip: admin,admin
+	}
+
+	Knife_Dance: {
+		DisplayName: Knife_ Dance
+		Tooltip: ""
+	}
+
+	Lacerating_Aura: {
+		DisplayName: Lacerating_ Aura
+		Tooltip: ""
+	}
+
+	Beheaded: {
+		Tooltip: ""
+		DisplayName: Beheaded
+	}
+
+	Bleeder: {
+		DisplayName: Bleeder
+		Tooltip: ""
+	}
+
+	BrutalityScroll: {
+		DisplayName: Brutality Scroll
+		Tooltip: ""
+	}
+
+	ShaderTest: {
+		DisplayName: Shader Test
+		Tooltip: ""
+	}
+
+	OilSword: {
+		DisplayName: Oil Sword
+		Tooltip: ""
+	}
+
+	StartSword: {
+		DisplayName: Start Sword
+		Tooltip: ""
+	}
+
+	QuickSword: {
+		DisplayName: Quick Sword
+		Tooltip: ""
+	}
+
+	BleedCrit: {
+		DisplayName: Bleed Crit
+		Tooltip: ""
+	}
+}
+
+Keybinds: {
+	Roll.DisplayName: Roll
+	"Smash Down.DisplayName": Smash  Down
+}
+
+Buffs: {
+	Bleed: {
+		DisplayName: Bleed
+		Description: Mods.DeadCells.Buffs.Bleed.Description
+	}
+
+	Stun: {
+		DisplayName: Stun
+		Description: Mods.DeadCells.Buffs.Stun.Description
+	}
+
+	Oil: {
+		DisplayName: Oil
+		Description: Mods.DeadCells.Buffs.Oil.Description
+	}
+}
+
+Projectiles: {
+	DrawRing.DisplayName: Draw Ring
+	Kunai.DisplayName: Kunai
+	Lacerating_Aura_Ring.DisplayName: Lacerating_ Aura_ Ring
+	Lacerating_Aura_Ring_Inner.DisplayName: Lacerating_ Aura_ Ring_ Inner
+	Lightning.DisplayName: Lightning
+	LineRed.DisplayName: Line Red
+	LineWhiteSharp.DisplayName: Line White Sharp
+	RedLightning.DisplayName: Red Lightning
+	BleederAtk.DisplayName: Bleeder Atk
+	BleederAtkA.DisplayName: Bleeder Atk A
+	BleederAtkB.DisplayName: Bleeder Atk B
+	ShaderTestAtk.DisplayName: Shader Test Atk
+	OilSwordAtkA.DisplayName: Oil Sword Atk A
+	OilSwordAtkB.DisplayName: Oil Sword Atk B
+	StartSwordAtkA.DisplayName: Start Sword Atk A
+	StartSwordAtkB.DisplayName: Start Sword Atk B
+	StartSwordAtkC.DisplayName: Start Sword Atk C
+	QuickSwordAtkA.DisplayName: Quick Sword Atk A
+	QuickSwordAtkB.DisplayName: Quick Sword Atk B
+	QuickSwordAtkC.DisplayName: Quick Sword Atk C
+	QuickSwordAtkD.DisplayName: Quick Sword Atk D
+	SmashDownArea.DisplayName: Smash Down Area
+	BleedCritAtkA.DisplayName: Bleed Crit Atk A
+	BleedCritAtkB.DisplayName: Bleed Crit Atk B
+	BleedCritAtkC.DisplayName: Bleed Crit Atk C
+}

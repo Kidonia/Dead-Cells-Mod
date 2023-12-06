@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9bl94qeUw8rW/7nWSo9RHjYZSymbI4yIzN82hxNgNwHeS0EEbOVMbQan4A+iFrueVjPh0jKr2fABtROVrtQ6iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\刘舒瑞\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\DeadCells\\DeadCells.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\刘舒瑞\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

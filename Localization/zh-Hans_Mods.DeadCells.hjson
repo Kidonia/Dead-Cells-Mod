@@ -1,0 +1,249 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	admin: {
+		// DisplayName: admin
+		// Tooltip: ""
+	}
+
+	Beheaded: {
+		// DisplayName: Beheaded
+		// Tooltip: ""
+	}
+
+	BrutalityScroll: {
+		// DisplayName: Brutality Scroll
+		// Tooltip: ""
+	}
+
+	Cell: {
+		// DisplayName: Cell
+		// Tooltip: ""
+	}
+
+	Knife_Dance: {
+		// DisplayName: Knife_ Dance
+		// Tooltip: ""
+	}
+
+	Lacerating_Aura: {
+		// DisplayName: Lacerating_ Aura
+		// Tooltip: ""
+	}
+
+	BleedCrit: {
+		// DisplayName: Bleed Crit
+		// Tooltip: ""
+	}
+
+	Bleeder: {
+		// DisplayName: Bleeder
+		// Tooltip: ""
+	}
+
+	OilSword: {
+		// DisplayName: Oil Sword
+		// Tooltip: ""
+	}
+
+	QuickSword: {
+		// DisplayName: Quick Sword
+		// Tooltip: ""
+	}
+
+	ShaderTest: {
+		// DisplayName: Shader Test
+		// Tooltip: ""
+	}
+
+	StartSword: {
+		// DisplayName: Start Sword
+		// Tooltip: ""
+	}
+
+	EvilSword: {
+		// DisplayName: Evil Sword
+		// Tooltip: ""
+	}
+
+	TickScythe: {
+		// DisplayName: Tick Scythe
+		// Tooltip: ""
+	}
+
+	SurvivalScroll: {
+		// DisplayName: Survival Scroll
+		// Tooltip: ""
+	}
+
+	AdminWeapon: {
+		// DisplayName: Admin Weapon
+		// Tooltip: ""
+	}
+
+	DualDaggers: {
+		// DisplayName: Dual Daggers
+		// Tooltip: ""
+	}
+
+	BroadSword: {
+		// DisplayName: Broad Sword
+		// Tooltip: ""
+	}
+
+	KingsSpear: {
+		// DisplayName: Kings Spear
+		// Tooltip: ""
+	}
+
+	PerfectHalberd: {
+		// DisplayName: Perfect Halberd
+		// Tooltip: ""
+	}
+
+	KnifeDance: {
+		// DisplayName: Knife Dance
+		// Tooltip: ""
+	}
+
+	LaceratingAura: {
+		// DisplayName: Lacerating Aura
+		// Tooltip: ""
+	}
+
+	HeavyAxe: {
+		// DisplayName: Heavy Axe
+		// Tooltip: ""
+	}
+
+	AdeleScythe: {
+		// DisplayName: Adele Scythe
+		// Tooltip: ""
+	}
+
+	QueenRapier: {
+		// DisplayName: Queen Rapier
+		// Tooltip: ""
+	}
+
+	TestTeleprot: {
+		// DisplayName: Test Teleprot
+		// Tooltip: ""
+	}
+
+	LowHealth: {
+		// DisplayName: Low Health
+		// Tooltip: ""
+	}
+}
+
+Keybinds: {
+	// Roll.DisplayName: Roll
+	// "Smash Down.DisplayName": Smash  Down
+	// "Leave / get back in body.DisplayName": Leave / get back in body
+}
+
+Buffs: {
+	Bleed: {
+		// DisplayName: Bleed
+		// Description: Mods.DeadCells.Buffs.Bleed.Description
+	}
+
+	Oil: {
+		// DisplayName: Oil
+		// Description: Mods.DeadCells.Buffs.Oil.Description
+	}
+
+	Stun: {
+		// DisplayName: Stun
+		// Description: Mods.DeadCells.Buffs.Stun.Description
+	}
+
+	BeCursed: {
+		// DisplayName: Be Cursed
+		// Description: Mods.DeadCells.Buffs.BeCursed.Description
+	}
+}
+
+Projectiles: {
+	// DrawRing.DisplayName: Draw Ring
+	// Kunai.DisplayName: Kunai
+	// Lacerating_Aura_Ring.DisplayName: Lacerating_ Aura_ Ring
+	// Lacerating_Aura_Ring_Inner.DisplayName: Lacerating_ Aura_ Ring_ Inner
+	// Lightning.DisplayName: Lightning
+	// LineRed.DisplayName: Line Red
+	// LineWhiteSharp.DisplayName: Line White Sharp
+	// RedLightning.DisplayName: Red Lightning
+	// SmashDownArea.DisplayName: Smash Down Area
+	// BleedCritAtkA.DisplayName: Bleed Crit Atk A
+	// BleedCritAtkB.DisplayName: Bleed Crit Atk B
+	// BleedCritAtkC.DisplayName: Bleed Crit Atk C
+	// BleederAtkA.DisplayName: Bleeder Atk A
+	// BleederAtkB.DisplayName: Bleeder Atk B
+	// OilSwordAtkA.DisplayName: Oil Sword Atk A
+	// OilSwordAtkB.DisplayName: Oil Sword Atk B
+	// QuickSwordAtkA.DisplayName: Quick Sword Atk A
+	// QuickSwordAtkB.DisplayName: Quick Sword Atk B
+	// QuickSwordAtkC.DisplayName: Quick Sword Atk C
+	// QuickSwordAtkD.DisplayName: Quick Sword Atk D
+	// ShaderTestAtk.DisplayName: Shader Test Atk
+	// StartSwordAtkA.DisplayName: Start Sword Atk A
+	// StartSwordAtkB.DisplayName: Start Sword Atk B
+	// StartSwordAtkC.DisplayName: Start Sword Atk C
+	// EvilSwordAtkA.DisplayName: Evil Sword Atk A
+	// EvilSwordAtkB.DisplayName: Evil Sword Atk B
+	// RoundTwist.DisplayName: Round Twist
+	// TickScytheAtkA1.DisplayName: Tick Scythe Atk A1
+	// TickScytheAtkA2.DisplayName: Tick Scythe Atk A2
+	// TickScytheAtkB1.DisplayName: Tick Scythe Atk B1
+	// TickScytheAtkB2.DisplayName: Tick Scythe Atk B2
+	// AdminAttack.DisplayName: Admin Attack
+	// DualDaggersAtkA.DisplayName: Dual Daggers Atk A
+	// DualDaggersAtkB.DisplayName: Dual Daggers Atk B
+	// DualDaggersAtkC.DisplayName: Dual Daggers Atk C
+	// BroadSwordAtkA.DisplayName: Broad Sword Atk A
+	// BroadSwordAtkB.DisplayName: Broad Sword Atk B
+	// BroadSwordAtkC.DisplayName: Broad Sword Atk C
+	// KingsSpearAtkA.DisplayName: Kings Spear Atk A
+	// KingsSpearAtkB.DisplayName: Kings Spear Atk B
+	// KingsSpearAtkC.DisplayName: Kings Spear Atk C
+	// PerfectHalberdA.DisplayName: Perfect Halberd A
+	// PerfectHalberdB.DisplayName: Perfect Halberd B
+	// PerfectHalberdC.DisplayName: Perfect Halberd C
+	// PerfectHalberdD.DisplayName: Perfect Halberd D
+	// HeavyAxeAtkA.DisplayName: Heavy Axe Atk A
+	// HeavyAxeAtkB.DisplayName: Heavy Axe Atk B
+	// HeavyAxeAtkC.DisplayName: Heavy Axe Atk C
+	// HeavyAxeAtkD.DisplayName: Heavy Axe Atk D
+	// NormalArrow.DisplayName: Normal Arrow
+	// AdeleScytheAtkA.DisplayName: Adele Scythe Atk A
+	// AdeleScytheAtkB.DisplayName: Adele Scythe Atk B
+	// AdeleScytheAtkC.DisplayName: Adele Scythe Atk C
+	// AdeleScytheAtkD.DisplayName: Adele Scythe Atk D
+	// SoulProj.DisplayName: Soul Proj
+	// RoundTwist2.DisplayName: Round Twist2
+	// TestTW.DisplayName: Test T W
+	// QueenRapierAtkA.DisplayName: Queen Rapier Atk A
+	// QueenRapierAtkB.DisplayName: Queen Rapier Atk B
+	// QueenRapierAtkC.DisplayName: Queen Rapier Atk C
+	// QueenRapierCut.DisplayName: Queen Rapier Cut
+	// QueenRapierCritCut.DisplayName: Queen Rapier Crit Cut
+	// DC_EnmMeleeAtk.DisplayName: D C_ Enm Melee Atk
+	// TeleportWhiteScreen.DisplayName: Teleport White Screen
+	// TeleportScreenScale.DisplayName: Teleport Screen Scale
+	// TeleportAvailable.DisplayName: Teleport Available
+	// TeleportAfter.DisplayName: Teleport After
+	// Homunculus.DisplayName: Homunculus
+	// LowHealthAtkA.DisplayName: Low Health Atk A
+	// LowHealthAtkB.DisplayName: Low Health Atk B
+	// LowHealthAtkC.DisplayName: Low Health Atk C
+	// LowHealthAtkD.DisplayName: Low Health Atk D
+	// LowHealthAtkE.DisplayName: Low Health Atk E
+}
+
+NPCs: {
+	// macFly.DisplayName: mac Fly
+	// rockLauncher.DisplayName: rock Launcher
+}
+
+// Tiles.TeleportAltar.MapEntry: Teleport Altar

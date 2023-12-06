@@ -1,0 +1,3 @@
+displayName = Dead Cells Mod
+author = nia
+version = 0.1

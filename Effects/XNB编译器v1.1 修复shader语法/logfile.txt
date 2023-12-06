@@ -1,0 +1,11 @@
+Message at 2022/8/14 18:11:36: Importing 混乱效果.fx with Microsoft.Xna.Framework.Content.Pipeline.EffectImporter
+Message at 2022/8/14 18:11:36: Processing 混乱效果.fx with Microsoft.Xna.Framework.Content.Pipeline.Processors.EffectProcessor
+Error at 2022/8/14 18:11:36: Errors compiling F:\桌面qa\XNB编辑器(支持hlsl3.0)\Effects\混乱效果.fx:
+F:\????qa\XNB????(???hlsl3.0)\memory(71,23): ID3DXEffectCompiler::CompileEffect: There was an error compiling expression
+ID3DXEffectCompiler: Compilation failed
+Message at 2023/9/5 17:46:37: Importing ScreenColorMess.fx with Microsoft.Xna.Framework.Content.Pipeline.EffectImporter
+Message at 2023/9/5 17:46:37: Processing ScreenColorMess.fx with Microsoft.Xna.Framework.Content.Pipeline.Processors.EffectProcessor
+Message at 2023/9/5 17:46:37: Compiling C:\Users\刘舒瑞\Documents\My Games\Terraria\tModLoader\ModSources\DeadCells\Effects\XNB编译器v1.1 修复shader语法\Content\ScreenColorMess.xnb
+Message at 2023/9/5 18:00:23: Importing ScreenColorMess.fx with Microsoft.Xna.Framework.Content.Pipeline.EffectImporter
+Message at 2023/9/5 18:00:23: Processing ScreenColorMess.fx with Microsoft.Xna.Framework.Content.Pipeline.Processors.EffectProcessor
+Message at 2023/9/5 18:00:23: Compiling C:\Users\刘舒瑞\Documents\My Games\Terraria\tModLoader\ModSources\DeadCells\Effects\XNB编译器v1.1 修复shader语法\Content\ScreenColorMess.xnb
